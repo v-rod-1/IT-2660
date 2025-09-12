@@ -34,8 +34,10 @@ public class Main {
     // Calls to Lab1 methods
     // Max using if method
     System.out.println("Max: " + Lab1.maxIf(nums[2], nums[3]));
+    
     // Min using if method
     System.out.println("Min: " + Lab1.minIf(nums[5], nums[3]));
+    
     // Array sum
     System.out.println("Sum: " + Lab1.sum(nums));
 
@@ -113,4 +115,5 @@ class Lab1 {
     }
     return minVal;
   }
+
 }
