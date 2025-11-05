@@ -8,3 +8,5 @@ Lab 2 - LinkedList, Queues, Stacks
 Lab 3 - Time Complexity Theory w/ Algorithms (Big O Notation)
   
 Lab 4 - Sorting Algorithms and Time Complexity
+
+Lab 5 - Binary Search Tree + Traversal
