@@ -12,3 +12,5 @@ Lab 4 - Sorting Algorithms and Time Complexity
 Lab 5 - Binary Search Tree + Traversal
 
 Lab 6 - Hashing (Maps and Sets)
+
+Lab 7 - Graphs
